@@ -1,0 +1,26 @@
+.privacy {
+    width: 762px;
+    margin: 100px auto;
+}
+
+.privacy p {
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 28px;
+    color: #5B5B5B;
+    margin: 24px 0px;
+}
+
+.privacy-heading {
+    font-size: 6.4rem;
+    font-weight: 600;
+    line-height: 72px;
+    color: #1D3444;
+}
+
+.privacy h2 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #0D1317;
+}
